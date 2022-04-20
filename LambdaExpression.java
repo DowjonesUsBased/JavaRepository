@@ -2,7 +2,7 @@
 public class LambdaExpression {
 	
 	(int n)->
-	{System.out.println("vaibhav");}
+	{System.out.println("I am vaibhav");}
 	
 public static void main(String[] args) {
 	LambdaExpression l=new LambdaExpression();
